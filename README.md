@@ -9,7 +9,7 @@ Calculate the maximum of three numbers (A, B, C).
 - Step 2. Input A, B, C
 - Step 3. Set Max to A
 - Step 4. If B > Max, set Max to B
-- Step 5. If C > Max, set Max to C
+- Step 5. Elif C > Max, set Max to C
 - Step 6. Output Max
 - Step 7. End
 
